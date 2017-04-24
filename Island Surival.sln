@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Island Surival.Plugins", "Island Surival.Plugins.csproj", "{37254405-2FBE-0DB9-C190-B0FDDFB429C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Island Surival", "Island Surival.csproj", "{EFD31BCE-86B0-2FE8-0EA2-016D947F7319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Island Surival.Editor.Plugins", "Island Surival.Editor.Plugins.csproj", "{E7E6F888-76D0-DD8A-FDC6-C010F080102D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Island Surival.Editor", "Island Surival.Editor.csproj", "{EBE2D058-6D80-B1C2-1684-A56A434BA2C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37254405-2FBE-0DB9-C190-B0FDDFB429C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37254405-2FBE-0DB9-C190-B0FDDFB429C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37254405-2FBE-0DB9-C190-B0FDDFB429C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37254405-2FBE-0DB9-C190-B0FDDFB429C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD31BCE-86B0-2FE8-0EA2-016D947F7319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD31BCE-86B0-2FE8-0EA2-016D947F7319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD31BCE-86B0-2FE8-0EA2-016D947F7319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD31BCE-86B0-2FE8-0EA2-016D947F7319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E6F888-76D0-DD8A-FDC6-C010F080102D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E6F888-76D0-DD8A-FDC6-C010F080102D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E6F888-76D0-DD8A-FDC6-C010F080102D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E6F888-76D0-DD8A-FDC6-C010F080102D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE2D058-6D80-B1C2-1684-A56A434BA2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE2D058-6D80-B1C2-1684-A56A434BA2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE2D058-6D80-B1C2-1684-A56A434BA2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE2D058-6D80-B1C2-1684-A56A434BA2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
